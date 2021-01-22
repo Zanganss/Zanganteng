@@ -226,9 +226,9 @@ const listmenu = (prefix) => {
 ║
 ╚═ Ketik *${prefix}info* untuk melihat list informasi tentang bot
        Ketik *${prefix}owner* untuk melihat kontak owner
-         Mau donasi? 081368646011(Gopay)
+         Mau donasi? 085340827717 (Pulsa)
          Jika tidak ingin donasi bantu Follow Ig aja kak 
-         _instagram.com/anker_2412
+         _instagram.com/zanganzz_
     _* DARK BOT © 2021*_`
 }
 exports.listmenu = listmenu
