@@ -5,11 +5,9 @@ const help = (prefix) => {
 ┣╾⊱ * XPTN BOT*
 ┣╾⊱ *9.0*
 ┣╾⊱ *VERSION : TERMUX*
-┣╾⊱ *wa.me/6289655478810*
+┣╾⊱ *wa.me/6285340827717*
 ┣╾⊱ *THANKS TO :*
-┣━━━━[ *RIZKY* ]━━━━━
-┣━━━━[ *CALIPH* ]━━━━
-┣━━━━[ *ALPHA* ]━━━━━
+┣━━━━[ *Zan Botz* ]━━━━━
 ║
 ╰══─⊱  ⸨ 𝑅𝐼𝑍𝐾𝑌 ⸩  ⊰─══╯
 
@@ -21,7 +19,7 @@ const help = (prefix) => {
   ●⧐ *Harap Sabar Dengan Bug²nya!*
 ●⧐ *Gunakan Bot Sebaik-baiknya!*
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
-               𝐁𝐲 - 𝐑𝐈𝐙𝐊𝐘
+               𝐁𝐲 - Zan Gans
             𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
 ●⧐ *Spam : Auto Block!*
@@ -78,6 +76,6 @@ const help = (prefix) => {
 ╰─⊱ *STATUS BOT: Online*
 ╭─⊱ BOT ON: *TERGANTUNG OWNER*
 ║
-▣══─ ⸨ 𝙍𝙞𝙯𝙠𝙮 𝘽𝙊𝙏𝙒𝘼 ⸩ ─══▣`
+▣══─ ⸨ *Zan Botz Wa* ⸩ ─══▣`
 }
 exports.help = help
