@@ -2,14 +2,12 @@ const help = (prefix) => {
 	return `
 ╭══─⊱  ⸨ 𝐼𝑁𝐹𝑂 ⸩  ⊰─══╮
 ║
-┣╾⊱ * DARK BOT*
+┣╾⊱ *Zan Botz*
 ┣╾⊱ *9.0*
 ┣╾⊱ *VERSION : TERMUX*
-┣╾⊱ *wa.me/6281368646011*
+┣╾⊱ *wa.me/6285340827717*
 ┣╾⊱ *THANKS TO :*
-┣━━━━[ *RIZKY* ]━━━━━
-┣━━━━[ *CALIPH* ]━━━━
-┣━━━━[ *DENIS* ]━━━━━
+┣━━━━[ *Zan Gans* ]━━━━━
 ║
 ╰══─⊱  ⸨ ANKER ⸩  ⊰─══╯
      𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞
@@ -65,6 +63,6 @@ const help = (prefix) => {
 ╰─⊱ *STATUS BOT: Online*
 ╭─⊱ BOT ON: *TERGANTUNG OWNER*
 ║
-▣══─ ⸨ DARK BOT ⸩ ─══▣`
+▣══─ ⸨ Zan Botz ⸩ ─══▣`
 }
 exports.help = help
